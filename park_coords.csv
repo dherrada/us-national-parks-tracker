@@ -1,0 +1,434 @@
+unit,code,latitude,longitude,anniversary,type
+"Abraham Lincoln Birthplace National Historical Park",ABLI,37.5314,-85.7361,1916-07-17,Other
+"Acadia National Park",ACAD,44.35,-68.2167,1916-07-08,"National Park"
+"Adams National Historical Park",ADAM,42.2564,-71.0114,1946-12-09,Other
+"African Burial Ground National Monument",AFBG,40.7144,-74.0044,2006-02-27,Other
+"Agate Fossil Beds National Monument",AGFO,42.4164,-103.728,1965-06-05,Other
+"Alagnak Wild River",ALAG,59.0047,-156.86,1980-12-02,Other
+"Alibates Flint Quarries National Monument",ALFL,35.575,-101.684,1965-08-21,Other
+"Allegheny Portage Railroad National Historic Site",ALPO,40.4542,-78.5403,1964-08-31,Other
+"Amache National Historic Site",AMCH,38.0496,-102.329,2024-02-15,Other
+"Amistad National Recreation Area",AMIS,29.4367,-101.05,1965-11-11,Other
+"Andersonville National Historic Site",ANDE,32.2007,-84.1305,1970-10-16,Other
+"Andrew Johnson National Historic Site",ANJO,36.1583,-82.835,1935-08-29,Other
+"Aniakchak National Monument",ANIA,56.8333,-158.251,1978-12-01,Other
+"Aniakchak National Preserve",ANIA,56.8333,-158.251,1978-12-01,Other
+"Antietam National Battlefield",ANTI,39.47,-77.74,1890-08-30,Other
+"Apostle Islands National Lakeshore",APIS,46.813,-90.8206,1970-09-26,Other
+"Appalachian National Scenic Trail",APPA,45.9044,-68.9213,1968-10-02,Other
+"Appomattox Court House National Historical Park",APCO,37.3786,-78.7964,1930-06-18,Other
+"Arches National Park",ARCH,38.6833,-109.567,1929-04-12,"National Park"
+"Arkansas Post National Memorial",ARPO,34.0189,-91.3489,1960-07-06,Other
+"Arlington House, The Robert E. Lee Memorial",ARHO,38.8812,-77.0726,1925-03-04,Other
+"Assateague Island National Seashore",ASIS,38.0833,-75.2083,1965-09-21,Other
+"Aztec Ruins National Monument",AZRU,36.8358,-107.998,1923-01-21,Other
+"Badlands National Park",BADL,43.75,-102.5,1939-01-25,"National Park"
+"Bandelier National Monument",BAND,35.7789,-106.321,1916-02-11,Other
+"Belmont-Paul Women's Equality National Monument",BEPA,38.8923,-77.0037,2016-04-12,Other
+"Bent's Old Fort National Historic Site",BEOL,38.0428,-103.429,1960-06-03,Other
+"Bering Land Bridge National Preserve",BELA,65.8333,-164.167,1978-12-01,Other
+"Big Bend National Park",BIBE,29.25,-103.25,1935-06-20,"National Park"
+"Big Cypress National Preserve",BICY,25.8589,-81.0339,1974-10-11,Other
+"Big Hole National Battlefield",BIHO,45.6375,-113.644,1910-06-23,Other
+"Big South Fork National River and Recreation Area",BISO,36.4865,-84.6985,1974-03-07,Other
+"Big Thicket National Preserve",BITH,30.5467,-94.3403,1974-10-11,Other
+"Bighorn Canyon National Recreation Area",BICA,45.1944,-108.131,1966-10-15,Other
+"Birmingham Civil Rights National Monument",BICR,33.5152,-86.8147,2017-01-13,Other
+"Biscayne National Park",BISC,25.65,-80.0833,1968-10-18,"National Park"
+"Black Canyon of the Gunnison National Park",BLCA,38.5667,-107.717,1933-03-02,"National Park"
+"Blackstone River Valley National Historical Park",BLAC,41.8407,-71.4182,2014-12-19,Other
+"Blackwell School National Historic Site",BLSC,30.3059,-104.022,2024-07-17,Other
+"Blue Ridge Parkway",BLRI,36.5186,-80.9358,1933-06-16,Other
+"Bluestone National Scenic River",BLUE,37.5417,-80.9992,1988-12-26,Other
+"Booker T. Washington National Monument",BOWA,37.1233,-79.7658,1956-04-02,Other
+"Boston African American National Historic Site",BOAF,42.36,-71.0647,1980-10-10,Other
+"Boston Harbor Islands National Recreation Area",BOHA,42.3186,-70.9458,1996-11-12,Other
+"Boston National Historical Park",BOST,42.36,-71.0564,1974-10-01,Other
+"Brices Cross Roads National Battlefield Site",BRCR,34.5061,-88.7289,1929-02-21,Other
+"Brown v. Board of Education National Historic Site",BRVB,39.0381,-95.6764,1992-10-26,Other
+"Bryce Canyon National Park",BRCA,37.6283,-112.168,1923-06-08,"National Park"
+"Buck Island Reef National Monument",BUIS,17.7869,-64.6192,1961-12-28,Other
+"Buffalo National River",BUFF,36.1781,-92.4261,1972-03-01,Other
+"Cabrillo National Monument",CABR,32.6731,-117.239,1913-10-14,Other
+"Camp Nelson National Monument",CANE,37.7968,-84.6008,2018-10-25,Other
+"Canaveral National Seashore",CANA,28.7675,-80.7769,1975-01-03,Other
+"Cane River Creole National Historical Park",CARI,31.6656,-93.0028,1994-11-02,Other
+"Canyon De Chelly National Monument",CACH,36.1553,-109.509,1931-02-14,Other
+"Canyonlands National Park",CANY,38.1669,-109.76,1964-09-12,"National Park"
+"Cape Cod National Seashore",CACO,41.95,-70,1961-08-07,Other
+"Cape Hatteras National Seashore",CAHA,35.3036,-75.5114,1937-08-17,Other
+"Cape Krusenstern National Monument",CAKR,67.3333,-163.583,1978-12-01,Other
+"Cape Lookout National Seashore",CALO,34.6053,-76.5364,1966-03-10,Other
+"Capitol Reef National Park",CARE,38.2,-111.167,1937-08-02,"National Park"
+"Capulin Volcano National Monument",CAVO,36.7822,-103.97,1916-08-09,Other
+"Carl Sandburg Home National Historic Site",CARL,35.2678,-82.4517,1968-10-17,Other
+"Carlisle Federal Indian Boarding School National Monument",CIBS,40.209,-77.178,2024-12-09,Other
+"Carlsbad Caverns National Park",CAVE,32.1753,-104.444,1923-10-25,"National Park"
+"Carter G. Woodson Home National Historic Site",CAWO,38.91,-77.0242,2006-02-27,Other
+"Casa Grande Ruins National Monument",CAGR,32.997,-111.532,1889-03-02,Other
+"Castillo de San Marcos National Monument",CASA,29.8978,-81.3114,1924-10-15,Other
+"Castle Clinton National Monument",CACL,40.7036,-74.0169,1946-08-12,Other
+"Castle Mountains National Monument",CAMO,35.3333,-115.102,2016-02-12,Other
+"Catoctin Mountain Park",CATO,39.6483,-77.4667,1936-11-14,Other
+"Cedar Breaks National Monument",CEBR,37.6425,-112.849,1933-08-22,Other
+"Cedar Creek and Belle Grove National Historical Park",CEBE,39.1675,-78.3008,2002-12-19,Other
+"César E. Chávez National Monument",CECH,35.2273,-118.561,2012-10-08,Other
+"Chaco Culture National Historical Park",CHCU,36.06,-107.97,1907-03-11,Other
+"Chamizal National Memorial",CHAM,31.7678,-106.454,1966-06-30,Other
+"Channel Islands National Park",CHIS,34.0083,-119.417,1938-04-26,"National Park"
+"Charles Pinckney National Historic Site",CHPI,32.8461,-79.8247,1988-09-08,Other
+"Charles Young Buffalo Soldiers National Monument",CHYO,39.6897,-83.8911,2013-03-25,Other
+"Chattahoochee River National Recreation Area",CHAT,33.9872,-84.3247,1978-08-15,Other
+"Chesapeake and Ohio Canal National Historical Park",CHOH,38.8997,-77.0578,1971-01-08,Other
+"Chickamauga and Chattanooga National Military Park",CHCH,34.94,-85.26,1890-08-19,Other
+"Chickasaw National Recreation Area",CHIC,34.5006,-96.9722,1902-07-01,Other
+"Chiricahua National Monument",CHIR,32.0057,-109.357,1924-04-18,Other
+"Christiansted National Historic Site",CHRI,17.7469,-64.7022,1952-03-04,Other
+"City of Rocks National Reserve",CIRO,42.076,-113.702,1988-11-18,Other
+"Clara Barton National Historic Site",CLBA,38.9669,-77.1408,1974-10-26,Other
+"Colonial National Historical Park",COLO,37.2189,-76.5175,1930-12-30,Other
+"Colorado National Monument",COLM,39.0425,-108.686,1911-05-24,Other
+"Congaree National Park",CONG,33.7833,-80.7833,1976-10-18,"National Park"
+"Constitution Gardens",COGA,38.8908,-77.0444,1974-08-01,Other
+"Coronado National Memorial",CORO,31.3483,-110.272,1952-07-09,Other
+"Cowpens National Battlefield",COWP,35.1367,-81.8181,1929-03-04,Other
+"Crater Lake National Park",CRLA,42.9118,-122.148,1902-05-22,"National Park"
+"Craters of the Moon National Monument",CRMO,43.4617,-113.563,1924-05-02,Other
+"Craters of the Moon National Preserve",CRMO,43.4617,-113.563,1924-05-02,Other
+"Cumberland Gap National Historical Park",CUGA,36.6042,-83.6872,1940-06-11,Other
+"Cumberland Island National Seashore",CUIS,30.8333,-81.45,1972-10-23,Other
+"Curecanti National Recreation Area",CURE,38.4547,-107.327,1965-02-11,Other
+"Cuyahoga Valley National Park",CUVA,41.2417,-81.5497,1975-06-26,"National Park"
+"Dayton Aviation Heritage National Historical Park",DAAV,39.7947,-84.0889,1992-10-16,Other
+"De Soto National Memorial",DESO,27.5239,-82.6444,1948-03-11,Other
+"Death Valley National Park",DEVA,36.2419,-116.826,1933-02-11,"National Park"
+"Delaware Water Gap National Recreation Area",DEWA,41.1538,-74.9139,1965-09-01,Other
+"Denali National Park",DENA,63.3333,-150.5,1917-02-26,"National Park"
+"Denali National Preserve",DENA,63.3333,-150.5,1917-02-26,Other
+"Devils Postpile National Monument",DEPO,37.6244,-119.084,1911-07-06,Other
+"Devils Tower National Monument",DETO,44.5905,-104.716,1906-09-24,Other
+"Dinosaur National Monument",DINO,40.5333,-108.983,1915-10-04,Other
+"Dry Tortugas National Park",DRTO,24.6286,-82.8733,1992-10-26,"National Park"
+"Dwight D. Eisenhower Memorial",DDEM,38.8872,-77.0188,2020-09-18,Other
+"Ebey's Landing National Historical Reserve",EBLA,48.2183,-122.684,1978-11-10,Other
+"Edgar Allan Poe National Historic Site",EDAL,39.962,-75.1499,1978-11-10,Other
+"Effigy Mounds National Monument",EFMO,43.0886,-91.1856,1949-10-25,Other
+"Eisenhower National Historic Site",EISE,39.7933,-77.2633,1967-11-27,Other
+"El Malpais National Monument",ELMA,34.8772,-108.051,1987-12-31,Other
+"El Morro National Monument",ELMO,35.0383,-108.353,1906-12-08,Other
+"Eleanor Roosevelt National Historic Site",ELRO,41.7631,-73.8989,1977-05-26,Other
+"Emmett Till and Mamie Till-Mobley National Monument",TILL,33.8606,-90.2747,2023-07-25,Other
+"Eugene O'Neill National Historic Site",EUON,37.8244,-122.03,1976-10-18,Other
+"Everglades National Park",EVER,25.3167,-80.9333,1934-05-30,"National Park"
+"Federal Hall National Memorial",FEHA,40.7072,-74.0103,1939-05-26,Other
+"Fire Island National Seashore",FIIS,40.6964,-72.9828,1964-09-11,Other
+"First Ladies National Historic Site",FILA,40.7967,-81.3753,2000-10-11,Other
+"First State National Historical Park",FRST,39.6647,-75.5653,2013-03-25,Other
+"Flight 93 National Memorial",FLNI,40.0561,-78.9072,2002-09-24,Other
+"Florissant Fossil Beds National Monument",FLFO,38.9137,-105.286,1969-08-20,Other
+"Ford's Theatre National Historic Site",FOTH,38.8967,-77.0258,1866-04-07,Other
+"Fort Bowie National Historic Site",FOBO,32.1461,-109.436,1964-08-30,Other
+"Fort Caroline National Memorial",FOCA,30.3869,-81.5006,1950-09-21,Other
+"Fort Davis National Historic Site",FODA,30.5996,-103.894,1961-09-08,Other
+"Fort Donelson National Battlefield",FODO,36.4825,-87.8628,1933-08-10,Other
+"Fort Frederica National Monument",FOFR,31.2239,-81.3933,1936-05-26,Other
+"Fort Laramie National Historic Site",FOLA,42.2092,-104.536,1938-07-16,Other
+"Fort Larned National Historic Site",FOLS,38.1864,-99.2121,1964-08-31,Other
+"Fort Matanzas National Monument",FOMA,29.7153,-81.2392,1924-10-15,Other
+"Fort McHenry National Monument and Historic Shrine",FOMC,39.2631,-76.58,1925-03-03,Other
+"Fort Monroe National Monument",FOMR,37.0036,-76.3075,2011-11-01,Other
+"Fort Necessity National Battlefield",FONE,39.8167,-79.5997,1931-03-04,Other
+"Fort Point National Historic Site",FOPO,37.8106,-122.477,1970-10-16,Other
+"Fort Pulaski National Monument",FOPU,32.0272,-80.8903,1924-10-15,Other
+"Fort Raleigh National Historic Site",FORA,35.9386,-75.71,1941-04-05,Other
+"Fort Scott National Historic Site",FOSC,37.8439,-94.7047,1978-10-19,Other
+"Fort Smith National Historic Site",FOSM,35.3433,-94.4228,1961-09-13,Other
+"Fort Stanwix National Monument",FOST,43.2106,-75.4553,1935-08-21,Other
+"Fort Sumter National Monument",FOSU,32.7522,-79.8747,1948-04-28,Other
+"Fort Union National Monument",FOUN,35.9073,-105.012,1954-06-28,Other
+"Fort Union Trading Post National Historic Site",FOUS,47.9994,-104.041,1966-06-20,Other
+"Fort Vancouver National Historic Site",FOVA,45.6254,-122.658,1948-06-19,Other
+"Fort Washington Park",FOWA,38.7108,-77.0331,1940-08-12,Other
+"Fossil Butte National Monument",FOBU,41.8644,-110.776,1972-10-23,Other
+"Frances Perkins National Monument",FRPE,44.0053,-69.5575,2024-12-16,Other
+"Franklin Delano Roosevelt Memorial",FRDE,38.8839,-77.0444,1959-09-05,Other
+"Frederick Douglass National Historic Site",FRDO,38.8633,-76.9853,1962-09-05,Other
+"Frederick Law Olmsted National Historic Site",FRLA,42.325,-71.1322,1979-10-12,Other
+"Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park",FRSP,38.2931,-77.4692,1927-02-14,Other
+"Freedom Riders National Monument",FRRI,33.6581,-85.8312,2017-01-13,Other
+"Friendship Hill National Historic Site",FRHI,39.7778,-79.9292,1978-11-10,Other
+"Gates of the Arctic National Park",GAAR,67.7833,-153.3,1978-12-01,"National Park"
+"Gates of the Arctic National Preserve",GAAR,67.7833,-153.3,1978-12-01,Other
+"Gateway Arch National Park",JEFF,38.6246,-90.185,1935-12-21,"National Park"
+"Gateway National Recreation Area",GATE,40.454,-73.997,1972-10-27,Other
+"Gauley River National Recreation Area",GARI,38.22,-80.89,1988-12-26,Other
+"General Grant National Memorial",GEGR,40.8134,-73.963,1958-08-14,Other
+"George Rogers Clark National Historical Park",GERO,38.6792,-87.5356,1966-07-23,Other
+"George Washington Birthplace National Monument",GEWA,38.1861,-76.9306,1930-01-23,Other
+"George Washington Carver National Monument",GWCA,36.9864,-94.3542,1943-07-14,Other
+"George Washington Memorial Parkway",GWMP,38.7113,-77.0862,1930-05-29,Other
+"Gettysburg National Military Park",GETT,39.8086,-77.2367,1895-02-11,Other
+"Gila Cliff Dwellings National Monument",GICL,33.2272,-108.272,1907-11-16,Other
+"Glacier Bay National Park",GLBA,58.5,-137,1925-02-26,"National Park"
+"Glacier Bay National Preserve",GLBA,58.5,-137,1925-02-26,Other
+"Glacier National Park",GLAC,48.7474,-113.439,1910-05-11,"National Park"
+"Glen Canyon National Recreation Area",GLCA,36.9936,-111.487,1958-04-18,Other
+"Golden Gate National Recreation Area",GOGA,37.7833,-122.467,1972-10-27,Other
+"Golden Spike National Historic Site",GOSP,41.6205,-112.547,1965-07-30,Other
+"Governors Island National Monument",GOIS,40.6914,-74.0161,2001-01-19,Other
+"Grand Canyon National Park",GRCA,36.0553,-112.122,1919-02-26,"National Park"
+"Grand Portage National Monument",GRPO,47.9606,-89.6866,1958-09-02,Other
+"Grand Teton National Park",GRTE,43.8333,-110.701,1929-02-26,"National Park"
+"Grant-Kohrs Ranch National Historic Site",GRKO,46.4083,-112.739,1972-08-25,Other
+"Great Basin National Park",GRBA,39.0058,-114.22,1922-01-24,"National Park"
+"Great Egg Harbor Scenic and Recreational River",GREG,39.3042,-74.6497,1992-10-27,Other
+"Great Sand Dunes National Park",GRSA,37.7329,-105.512,1932-03-17,"National Park"
+"Great Sand Dunes National Preserve",GRSA,37.7329,-105.512,1932-03-17,Other
+"Great Smoky Mountains National Park",GRSM,35.6833,-83.5333,1926-05-22,"National Park"
+"Greenbelt Park",GREE,38.9892,-76.8983,1950-08-03,Other
+"Guadalupe Mountains National Park",GUMO,31.9167,-104.867,1966-10-15,"National Park"
+"Guilford Courthouse National Military Park",GUCO,36.1314,-79.8464,1917-03-02,Other
+"Gulf Islands National Seashore",GUIS,30.3644,-86.9675,1971-01-08,Other
+"Hagerman Fossil Beds National Monument",HAFO,42.7903,-114.945,1988-11-18,Other
+"Haleakalā National Park",HALE,20.7167,-156.167,1916-08-01,"National Park"
+"Hamilton Grange National Memorial",HAGR,40.8214,-73.9472,1962-04-27,Other
+"Hampton National Historic Site",HAMP,39.4161,-76.5875,1948-06-22,Other
+"Harpers Ferry National Historical Park",HAFE,39.3228,-77.7297,1944-06-30,Other
+"Harriet Tubman National Historical Park",HART,42.9117,-76.565,2017-01-10,Other
+"Harriet Tubman Underground Railroad National Historical Park",HATU,38.5664,-76.0769,2013-03-25,Other
+"Harry S Truman National Historic Site",HSTR,38.9021,-94.5322,1983-05-23,Other
+"Hawai'i Volcanoes National Park",HAVO,19.3833,-155.2,1916-08-01,"National Park"
+"Herbert Hoover National Historic Site",HEHO,41.6686,-91.3481,1965-08-12,Other
+"Hohokam Pima National Monument",PIMA,33.1834,-111.934,1972-10-21,Other
+"Home of Franklin D. Roosevelt National Historic Site",HOFR,41.7672,-73.9356,1944-01-15,Other
+"Homestead National Monument of America",HOME,40.2853,-96.8219,1936-03-19,Other
+"Honouliuli National Historic Site",HONO,21.3917,-158.06,2015-02-24,Other
+"Hopewell Culture National Historical Park",HOCU,39.3758,-83.0064,1923-03-02,Other
+"Hopewell Furnace National Historic Site",HOFU,40.1986,-75.7756,1938-08-03,Other
+"Horseshoe Bend National Military Park",HOBE,32.9708,-85.7383,1956-07-25,Other
+"Hot Springs National Park",HOSP,34.5136,-93.0536,1832-04-20,"National Park"
+"Hovenweep National Monument",HOVE,37.3839,-109.077,1923-03-02,Other
+"Hubbell Trading Post National Historic Site",HUTR,35.7256,-109.593,1965-08-28,Other
+"Ice Age National Scenic Trail",IATR,43.0819,-89.6118,2023-12-07,Other
+"Independence National Historical Park",INDE,39.9478,-75.1481,1948-06-28,Other
+"Indiana Dunes National Park",INDU,41.6481,-87.1081,1966-11-05,"National Park"
+"Isle Royale National Park",ISRO,48.1,-88.55,1931-03-03,"National Park"
+"James A. Garfield National Historic Site",JAGA,41.6622,-81.3472,1980-12-28,Other
+"Jean Lafitte National Historical Park and Preserve",JELA,29.9425,-89.9942,1907-03-04,Other
+"Jewel Cave National Monument",JECA,43.7294,-103.829,1908-02-07,Other
+"Jimmy Carter National Historic Site",JICA,32.0356,-84.3931,1987-12-23,Other
+"John D. Rockefeller, Jr. Memorial Parkway",JODR,44.1047,-110.693,1972-08-25,Other
+"John Day Fossil Beds National Monument",JODA,44.5558,-119.645,1975-10-08,Other
+"John Fitzgerald Kennedy National Historic Site",JOFI,42.3458,-71.1244,1967-05-26,Other
+"John Muir National Historic Site",JOMU,37.9913,-122.133,1964-08-31,Other
+"Johnstown Flood National Memorial",JOFL,40.3456,-78.7786,1964-08-31,Other
+"Joshua Tree National Park",JOTR,33.7884,-115.898,1936-08-10,"National Park"
+"Kalaupapa National Historical Park",KALA,21.1778,-156.96,1980-12-22,Other
+"Kaloko-Honokōhau National Historical Park",KAHO,19.6787,-156.022,1978-11-10,Other
+"Katahdin Woods and Waters National Monument",KAWW,45.9704,-68.6193,2016-08-24,Other
+"Katmai National Park",KATM,58.5,-155,1918-09-24,"National Park"
+"Katmai National Preserve",KATM,58.5,-155,1918-09-24,Other
+"Kenai Fjords National Park",KEFJ,59.9178,-149.988,1978-12-01,"National Park"
+"Kennesaw Mountain National Battlefield Park",KEMO,33.9831,-84.5781,1917-02-18,Other
+"Keweenaw National Historical Park",KEWE,47.1564,-88.5636,1992-10-27,Other
+"Kings Canyon National Park",SEKI,36.7893,-118.673,1890-10-01,"National Park"
+"Kings Mountain National Military Park",KIMO,35.1378,-81.3894,1933-08-10,Other
+"Klondike Gold Rush National Historical Park",KLGO,59.4564,-135.312,1976-06-30,Other
+"Knife River Indian Villages National Historic Site",KNRI,47.3542,-101.386,1974-10-26,Other
+"Kobuk Valley National Park",KOVA,67.55,-159.283,1978-12-01,"National Park"
+"Korean War Veterans Memorial",KOWA,38.8878,-77.0472,1986-10-28,Other
+"Lake Chelan National Recreation Area",NOCA,48.3219,-120.678,1968-10-02,Other
+"Lake Clark National Park",LACL,60.9667,-153.417,1978-12-01,"National Park"
+"Lake Clark National Preserve",LACL,60.9667,-153.417,1978-12-01,Other
+"Lake Mead National Recreation Area",LAKE,36.0097,-114.797,1964-10-08,Other
+"Lake Meredith National Recreation Area",LAMR,35.7147,-101.553,1965-03-15,Other
+"Lake Roosevelt National Recreation Area",LARO,48.1074,-118.213,1946-12-18,Other
+"Lassen Volcanic National Park",LAVO,40.4877,-121.505,1907-05-06,"National Park"
+"Lava Beds National Monument",LABE,41.7139,-121.508,1925-11-21,Other
+"Lewis and Clark National Historical Park",LEWI,46.1336,-123.878,1958-05-29,Other
+"Lincoln Boyhood National Memorial",LIBO,38.1183,-86.9969,1962-02-19,Other
+"Lincoln Home National Historic Site",LIHO,39.7972,-89.645,1971-08-18,Other
+"Lincoln Memorial",LINC,38.8893,-77.0501,1911-02-09,Other
+"Little Bighorn Battlefield National Monument",LIBI,45.5648,-107.429,1886-12-07,Other
+"Little River Canyon National Preserve",LIRI,34.4406,-85.5956,1992-10-21,Other
+"Little Rock Central High School National Historic Site",CHSC,34.7367,-92.2986,1998-11-06,Other
+"Longfellow House-Washington's Headquarters National Historic Site",LONG,42.3767,-71.1264,1972-10-09,Other
+"Lowell National Historical Park",LOWE,42.6467,-71.3103,1978-06-05,Other
+"Lyndon B. Johnson National Historical Park",LYJO,30.2408,-98.6242,1969-12-02,Other
+"Lyndon Baines Johnson Memorial Grove on the Potomac",LYBA,38.8786,-77.0514,1973-12-28,Other
+"Maggie L. Walker National Historic Site",MAWA,37.5478,-77.4381,1978-11-10,Other
+"Mammoth Cave National Park",MACA,37.1833,-86.1,1926-05-25,"National Park"
+"Manassas National Battlefield Park",MANA,38.8128,-77.5217,1936-11-14,Other
+"Manhattan Project National Historical Park",MAPR,35.8439,-106.289,2015-11-10,Other
+"Manzanar National Historic Site",MANZ,36.7283,-118.154,1992-03-03,Other
+"Marsh-Billings-Rockefeller National Historical Park",MABI,43.6312,-72.5294,1992-08-26,Other
+"Martin Luther King Jr. National Historic Site",MALU,33.755,-84.3722,1983-10-10,Other
+"Martin Luther King, Jr. Memorial",MLKM,38.8861,-77.0442,2011-08-28,Other
+"Martin Van Buren National Historic Site",MAVA,42.3697,-73.7042,1974-10-26,Other
+"Mary McLeod Bethune Council House National Historic Site",MAMC,38.9078,-77.0303,1991-12-11,Other
+"Medgar and Myrlie Evers Home National Monument",MEMY,32.341,-90.2148,2020-11-09,Other
+"Mesa Verde National Park",MEVE,37.1838,-108.489,1906-06-29,"National Park"
+"Middle Delaware National Scenic River",DEWA,41.1538,-74.9139,1978-11-10,Other
+"Mill Springs Battlefield National Monument",MISP,37.0689,-84.7361,2020-09-22,Other
+"Minidoka National Historic Site",MIIN,42.678,-114.251,2001-09-19,Other
+"Minute Man National Historical Park",MIMA,42.4531,-71.2986,1959-04-14,Other
+"Minuteman Missile National Historic Site",MIMI,43.8445,-101.901,1999-11-29,Other
+"Mississippi National River and Recreation Area",MISS,44.8733,-93.0188,1988-11-18,Other
+"Missouri National Recreational River",MNRR,42.8625,-97.3928,1978-11-10,Other
+"Mojave National Preserve",MOJA,34.8833,-115.717,1994-10-31,Other
+"Monocacy National Battlefield",MONO,39.3712,-77.3921,1934-06-21,Other
+"Montezuma Castle National Monument",MOCA,34.6131,-111.84,1906-12-08,Other
+"Moores Creek National Battlefield",MOCR,34.4581,-78.1094,1926-06-02,Other
+"Morristown National Historical Park",MORR,40.7669,-74.5286,1933-03-02,Other
+"Mount Rainier National Park",MORA,46.85,-121.75,1899-03-02,"National Park"
+"Mount Rushmore National Memorial",MORU,43.8789,-103.46,1925-03-03,Other
+"Muir Woods National Monument",MUWO,37.8919,-122.571,1908-01-09,Other
+"Natchez National Historical Park",NATC,31.5433,-91.3831,1988-10-07,Other
+"Natchez Trace National Scenic Trail",NATT,34.6677,-88.0883,1983-03-28,Other
+"Natchez Trace Parkway",NATR,31.5455,-91.3695,1934-06-19,Other
+"National Capital Parks",NACE,38.8897,-77.0367,1933-08-10,Other
+"National Mall",MALL,38.89,-77.0236,1790-07-16,Other
+"National Park of American Samoa",NPSA,-14.2583,-170.683,1988-10-31,Other
+"Natural Bridges National Monument",NABR,37.6014,-110.014,1908-04-16,Other
+"Navajo National Monument",NAVA,36.6783,-110.541,1909-03-20,Other
+"New Bedford Whaling National Historical Park",NEBE,41.6356,-70.9233,1996-11-12,Other
+"New England National Scenic Trail",NEEN,42.0725,-72.7148,2023-12-07,Other
+"New Orleans Jazz National Historical Park",JAZZ,29.9631,-90.0681,1994-10-31,Other
+"New Philadelphia National Historic Site",NEPH,39.6958,-90.9597,2022-12-29,Other
+"New River Gorge National River",NERI,37.9608,-81.0817,1978-11-10,Other
+"Nez Perce National Historical Park",NEPE,46.1419,-116.359,1965-05-15,Other
+"Nicodemus National Historic Site",NICO,39.3908,-99.6175,1996-11-12,Other
+"Ninety Six National Historic Site",NISI,34.1469,-82.0244,1976-08-19,Other
+"Niobrara National Scenic River",NIOB,42.8833,-100.317,1991-05-24,Other
+"Noatak National Preserve",NOAT,68,-159.5,1978-12-01,Other
+"North Cascades National Park",NOCA,48.4831,-120.911,1968-10-02,"National Park"
+"North Country National Scenic Trail",NOCO,42.9345,-85.336,2023-12-07,Other
+"Obed Wild and Scenic River",OBED,35.9187,-85.113,1976-10-12,Other
+"Ocmulgee National Monument",OCMU,32.8367,-83.6083,1934-06-14,Other
+"Olympic National Park",OLYM,47.9693,-123.499,1909-03-02,"National Park"
+"Oregon Caves National Monument and Preserve",ORCA,42.0956,-123.406,1909-07-12,Other
+"Organ Pipe Cactus National Monument",ORPI,31.954,-112.801,1937-04-13,Other
+"Ozark National Scenic Riverways",OZAR,37.1907,-91.2763,1964-08-27,Other
+"Padre Island National Seashore",PAIS,26.9844,-97.3806,1962-09-28,Other
+"Palo Alto Battlefield National Historical Park",PAAL,26.0214,-97.4806,1978-11-10,Other
+"Paterson Great Falls National Historical Park",PAGR,40.9162,-74.1816,2011-11-07,Other
+"Pea Ridge National Military Park",PERI,36.4544,-94.0342,1956-07-20,Other
+"Pearl Harbor National Memorial",VALR,21.3665,-157.938,2019-03-12,Other
+"Pecos National Historical Park",PECO,35.55,-105.689,1965-06-28,Other
+"Pennsylvania Avenue National Historic Site",PAAV,38.8936,-77.0239,1987-09-30,Other
+"Perry's Victory and International Peace Memorial",PEVI,41.6542,-82.8114,1936-06-02,Other
+"Petersburg National Battlefield",PETE,37.2194,-77.3614,1926-07-03,Other
+"Petrified Forest National Park",PEFO,35.0881,-109.806,1906-12-08,"National Park"
+"Petroglyph National Monument",PETR,35.1358,-106.762,1990-06-27,Other
+"Pictured Rocks National Lakeshore",PIRO,46.5622,-86.3125,1966-10-15,Other
+"Pinnacles National Park",PINN,36.4869,-121.167,1908-01-16,"National Park"
+"Pipe Spring National Monument",PISP,36.8619,-112.737,1923-05-31,Other
+"Pipestone National Monument",PIPE,44.0133,-96.325,1937-08-25,Other
+"Piscataway Park",PISC,38.6786,-77.0928,1961-10-04,Other
+"Point Reyes National Seashore",PORE,38.0667,-122.883,1962-09-13,Other
+"Port Chicago Naval Magazine National Memorial",POCH,38.0575,-122.03,2009-10-28,Other
+"Potomac Heritage National Scenic Trail",POHE,38.904,-77.0586,1983-03-28,Other
+"Poverty Point National Monument",POPO,32.6367,-91.4114,1988-10-31,Other
+"President William Jefferson Clinton Birthplace Home National Historic Site",WICL,33.6672,-93.5965,2010-12-14,Other
+"Prince William Forest Park",PRWI,38.5853,-77.3797,1936-11-14,Other
+"Pu'ukoholā Heiau National Historic Site",PUHE,20.0267,-155.82,1972-08-17,Other
+"Pullman National Monument",PULL,41.6972,-87.6094,2015-02-19,Other
+"Pu`uhonua O Hōnaunau National Historical Park",PUHO,19.4213,-155.91,1955-07-26,Other
+"Rainbow Bridge National Monument",RABR,37.0772,-110.964,1910-05-30,Other
+"Reconstruction Era National Historical Park",REER,32.3896,-80.5757,2017-01-13,Other
+"Redwood National Park",REDW,41.3,-124,1968-10-02,"National Park"
+"Richmond National Battlefield Park",RICH,37.4292,-77.3736,1936-03-02,Other
+"Rio Grande Wild and Scenic River",RIGR,29.1833,-102.962,1978-11-10,Other
+"River Raisin National Battlefield Park",RIRA,41.9136,-83.3783,2010-10-22,Other
+"Rock Creek Park",ROCR,38.9575,-77.045,1890-09-27,Other
+"Rocky Mountain National Park",ROMO,40.3333,-105.709,1915-01-26,"National Park"
+"Roger Williams National Memorial",ROWI,41.8304,-71.4109,1965-10-22,Other
+"Rosie the Riveter/World War II Home Front National Historical Park",RORI,37.9095,-122.357,2000-10-24,Other
+"Ross Lake National Recreation Area",NOCA,48.6731,-121.245,1968-10-02,Other
+"Russell Cave National Monument",RUCA,34.9742,-85.8033,1961-05-11,Other
+"Sagamore Hill National Historic Site",SAHI,40.8856,-73.4975,1962-07-25,Other
+"Saguaro National Park",SAGU,32.25,-110.5,1933-03-01,"National Park"
+"Saint Croix Island International Historic Site",SACR,45.1283,-67.1333,1949-06-08,Other
+"Saint Croix National Scenic Riverway",SACN,45.3892,-92.6575,1968-10-02,Other
+"Saint Paul's Church National Historic Site",SAPA,40.8928,-73.8258,1978-11-10,Other
+"Saint-Gaudens National Historic Site",SAGA,43.5008,-72.3681,1964-08-31,Other
+"Salem Maritime National Historic Site",SAMA,42.5206,-70.8872,1938-03-17,Other
+"Salinas Pueblo Missions National Monument",SAPU,34.2597,-106.09,1980-12-19,Other
+"Salt River Bay National Historical Park and Ecological Preserve",SARI,17.7789,-64.7589,1992-02-24,Other
+"San Antonio Missions National Historical Park",SAAN,29.3617,-98.4803,1978-11-10,Other
+"San Francisco Maritime National Historical Park",SAFR,37.8064,-122.424,1988-06-27,Other
+"San Juan Island National Historical Park",SAJH,48.4558,-122.986,1966-09-09,Other
+"San Juan National Historic Site",SAJU,18.4675,-66.1103,1949-02-14,Other
+"Sand Creek Massacre National Historic Site",SAND,38.5408,-102.529,2007-04-27,Other
+"Santa Monica Mountains National Recreation Area",SAMO,34.1039,-118.603,1978-11-10,Other
+"Saratoga National Historical Park",SARA,42.9989,-73.6375,1938-06-01,Other
+"Saugus Iron Works National Historic Site",SAIR,42.4678,-71.0089,1968-04-05,Other
+"Scotts Bluff National Monument",SCBL,41.8356,-103.701,1919-12-12,Other
+"Sequoia National Park",SEKI,36.5647,-118.773,1890-09-25,"National Park"
+"Shenandoah National Park",SHEN,38.5333,-78.35,1926-05-22,"National Park"
+"Shiloh National Military Park",SHIL,35.1525,-88.3231,1894-12-27,Other
+"Sitka National Historical Park",SITK,57.0469,-135.314,1910-03-23,Other
+"Sleeping Bear Dunes National Lakeshore",SLBE,44.9131,-86.0203,1970-10-21,Other
+"Springfield 1908 Race Riot National Monument",SPRA,39.8033,-89.6486,2024-08-16,Other
+"Springfield Armory National Historic Site",SPAR,42.1081,-72.5817,1974-10-26,Other
+"Statue of Liberty National Monument",STLI,40.6892,-74.0446,1877-03-03,Other
+"Ste. Geneviève National Historical Park",STGE,37.9793,-90.0434,2020-10-30,Other
+"Steamtown National Historic Site",STEA,41.4073,-75.6713,1986-10-30,Other
+"Stones River National Battlefield",STRI,35.8808,-86.435,1927-03-03,Other
+"Stonewall National Monument",STON,40.7338,-74.0022,2016-06-24,Other
+"Sunset Crater Volcano National Monument",SUCR,35.3656,-111.501,1930-05-26,Other
+"Tallgrass Prairie National Preserve",TAPR,38.4328,-96.5589,1996-11-12,Other
+"Thaddeus Kosciuszko National Memorial",THKO,39.9433,-75.1475,1972-10-21,Other
+"Theodore Roosevelt Birthplace National Historic Site",THRB,40.7389,-73.9897,1962-07-25,Other
+"Theodore Roosevelt Inaugural National Historic Site",THRI,42.9015,-78.8724,1966-11-02,Other
+"Theodore Roosevelt Island",THIS,38.8972,-77.0642,1932-05-21,Other
+"Theodore Roosevelt National Park",THRO,46.9667,-103.45,1947-04-25,"National Park"
+"Thomas Edison National Historical Park",EDIS,40.7869,-74.2378,1955-12-06,Other
+"Thomas Jefferson Memorial",THJE,38.8814,-77.0369,1934-06-26,Other
+"Thomas Stone National Historic Site",THST,38.5312,-77.0393,1978-11-10,Other
+"Timpanogos Cave National Monument",TICA,40.4406,-111.709,1922-10-14,Other
+"Timucuan Ecological and Historic Preserve",TIMU,30.4545,-81.4499,1988-02-16,Other
+"Tonto National Monument",TONT,33.6569,-111.094,1907-12-19,Other
+"Tule Lake National Monument",TULE,41.9688,-121.568,2019-03-12,Other
+"Tule Springs Fossil Beds National Monument",TUSK,36.3208,-115.266,2014-12-19,Other
+Tumac,TUMA,31.5681,-111.051,1908-09-15,Other
+"Tupelo National Battlefield",TUPE,34.2553,-88.7372,1933-08-10,Other
+"Tuskegee Airmen National Historic Site",TUAI,32.4592,-85.68,1998-11-06,Other
+"Tuskegee Institute National Historic Site",TUIN,32.4302,-85.7077,1974-10-26,Other
+"Tuzigoot National Monument",TUZI,34.7709,-112.026,1939-07-25,Other
+"Ulysses S. Grant National Historic Site",ULSG,38.5511,-90.3519,1989-10-02,Other
+"Upper Delaware Scenic and Recreational River",UPDE,41.6401,-75.0586,1978-11-10,Other
+"Valles Caldera National Preserve",VALL,35.9,-106.533,2014-12-19,Other
+"Valley Forge National Historical Park",VAFO,40.0969,-75.4389,1976-07-04,Other
+"Vanderbilt Mansion National Historic Site",VAMA,41.7961,-73.9419,1940-12-18,Other
+"Vicksburg National Military Park",VICK,32.3442,-90.8517,1899-02-21,Other
+"Vietnam Veterans Memorial",VIVE,38.8911,-77.0478,1980-07-01,Other
+"Virgin Islands Coral Reef National Monument",VICR,18.3061,-64.7269,2001-01-17,Other
+"Virgin Islands National Park",VIIS,18.3333,-64.7333,1956-08-02,"National Park"
+"Voyageurs National Park",VOYA,48.445,-93.0301,1971-01-08,"National Park"
+"Waco Mammoth National Monument",WACO,31.606,-97.175,2015-07-10,Other
+"Walnut Canyon National Monument",WACA,35.1717,-111.51,1915-11-30,Other
+"War in the Pacific National Historical Park",WAPA,13.3,144.667,1978-08-15,Other
+"Washington Monument",WAMO,38.8895,-77.0352,1876-08-02,Other
+"Washita Battlefield National Historic Site",WABA,35.6175,-99.7003,1996-11-12,Other
+"Weir Farm National Historic Site",WEFA,41.2581,-73.4547,1990-10-31,Other
+"Whiskeytown-Shasta-Trinity National Recreation Area",WHIS,40.6253,-122.559,1965-11-08,Other
+"White House",WHHO,38.8977,-77.0366,1792-10-10,Other
+"White Sands National Park",WHSA,32.7797,-106.172,1933-01-18,"National Park"
+"Whitman Mission National Historic Site",WHMI,46.0413,-118.464,1936-06-29,Other
+"William Howard Taft National Historic Site",WIHO,39.1197,-84.5086,1969-12-02,Other
+"Wilson's Creek National Battlefield",WICR,37.1156,-93.42,1960-04-22,Other
+"Wind Cave National Park",WICA,43.5564,-103.479,1903-01-09,"National Park"
+"Wolf Trap National Park for the Performing Arts",WOTR,38.9369,-77.2619,1966-10-15,Other
+"Women's Rights National Historical Park",WORI,42.9108,-76.8014,1980-12-28,Other
+"World War I Memorial",,38.9072,-77.0369,2014-12-19,Other
+"World War II Memorial",WWII,38.8894,-77.0405,2004-05-29,Other
+"Wrangell-St. Elias National Park",WRST,61,-142,1978-12-01,"National Park"
+"Wrangell-St. Elias National Preserve",WRST,61,-142,1978-12-01,Other
+"Wright Brothers National Memorial",WRBR,36.021,-75.6732,1927-03-02,Other
+"Wupatki National Monument",WUPA,35.5656,-111.387,1924-12-09,Other
+"Yellowstone National Park",YELL,44.6,-110.5,1872-03-01,"National Park"
+"Yosemite National Park",YOSE,37.7452,-119.598,1890-10-01,"National Park"
+"Yucca House National Monument",YUHO,37.2503,-108.686,1919-12-19,Other
+"Yukon-Charley Rivers National Preserve",YUCH,65,-143.5,1978-12-01,Other
+"Zion National Park",ZION,37.2026,-112.988,1909-07-31,"National Park"
